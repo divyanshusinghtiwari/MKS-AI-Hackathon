@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "MKS AI Hackathon Workstream 3 Feature Quality Audit",
+    "status": "VALIDATED_AND_LEAKAGE_FREE"
+  },
+  "feature_store_summary": {
+    "total_rows": 247106,
+    "total_features": 112,
+    "date_range": "2019-01 to 2026-10",
+    "unique_skus": 598,
+    "unique_regions": 6,
+    "target_variable": "Units_Unconstrained"
+  },
+  "feature_groups": {
+    "calendar_and_seasonality": [
+      "is_stockout_month",
+      "month_sin",
+      "month_cos",
+      "quarter_sin",
+      "quarter_cos",
+      "is_golden_week_month",
+      "is_cny_month",
+      "is_year_end_holiday",
+      "is_pre_price_hike_month",
+      "is_post_price_hike_month",
+      "is_covid_lockdown_period",
+      "is_chip_shortage_period",
+      "months_since_launch",
+      "months_until_eol"
+    ],
+    "time_series_lags": [
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_6",
+      "lag_9",
+      "lag_12",
+      "lag_18",
+      "lag_24"
+    ],
+    "rolling_and_momentum": [
+      "rolling_mean_3",
+      "rolling_mean_6",
+      "rolling_mean_12",
+      "rolling_std_3",
+      "rolling_std_6",
+      "rolling_std_12",
+      "rolling_min_6",
+      "rolling_max_6",
+      "rolling_min_12",
+      "rolling_max_12",
+      "ewma_span_3",
+      "ewma_span_12",
+      "mom_growth_rate",
+      "yoy_growth_rate",
+      "momentum_3m"
+    ],
+    "intermittency_metrics": [
+      "adi",
+      "cv2",
+      "intermittency_class",
+      "croston_baseline_rate",
+      "sba_baseline_rate"
+    ],
+    "macroeconomic_drivers": [
+      "Fill_Rate_Pct",
+      "Stockout_Days",
+      "ISM_Manufacturing_PMI",
+      "Auto_Production_YoY_Pct",
+      "Vehicle_Inventory_Days",
+      "Raw_Material_Cost_Index",
+      "New_Vehicle_Orders_Index",
+      "Industrial_Util_Rate_Pct",
+      "Fuel_Price_Index",
+      "EV_Adoption_Index",
+      "ISM_Manufacturing_PMI_lag1",
+      "ISM_Manufacturing_PMI_lag2",
+      "ISM_Manufacturing_PMI_lag3",
+      "Auto_Production_YoY_Pct_lag1",
+      "Auto_Production_YoY_Pct_lag2",
+      "Auto_Production_YoY_Pct_lag3",
+      "Vehicle_Inventory_Days_lag1",
+      "Vehicle_Inventory_Days_lag2",
+      "Vehicle_Inventory_Days_lag3",
+      "Raw_Material_Cost_Index_lag1",
+      "Raw_Material_Cost_Index_lag2",
+      "Raw_Material_Cost_Index_lag3",
+      "New_Vehicle_Orders_Index_lag1",
+      "New_Vehicle_Orders_Index_lag2",
+      "New_Vehicle_Orders_Index_lag3",
+      "Industrial_Util_Rate_Pct_lag1",
+      "Industrial_Util_Rate_Pct_lag2",
+      "Industrial_Util_Rate_Pct_lag3",
+      "Fuel_Price_Index_lag1",
+      "Fuel_Price_Index_lag2",
+      "Fuel_Price_Index_lag3",
+      "EV_Adoption_Index_lag1",
+      "EV_Adoption_Index_lag2",
+      "EV_Adoption_Index_lag3"
+    ],
+    "product_and_lifecycle": [
+      "months_since_launch",
+      "months_until_eol",
+      "is_pre_launch",
+      "is_post_eol",
+      "has_replacement_sku",
+      "historical_stockout_rate",
+      "historical_active_customers"
+    ]
+  },
+  "intermittency_distribution": {
+    "Smooth": 1970,
+    "Intermittent": 701,
+    "Erratic": 327,
+    "Lumpy": 85
+  }
+}

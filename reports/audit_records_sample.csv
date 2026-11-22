@@ -1,0 +1,351 @@
+table,record_id,rule_id,field,old_value,new_value,action
+train,CEL-0000029,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000029,REMOVED,Removed older duplicate timestamp
+train,CEL-0000038,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000038,REMOVED,Removed older duplicate timestamp
+train,CEL-0000044,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000044,REMOVED,Removed older duplicate timestamp
+train,CEL-0000068,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000068,REMOVED,Removed older duplicate timestamp
+train,CEL-0000209,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000209,REMOVED,Removed older duplicate timestamp
+train,CEL-0000260,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000260,REMOVED,Removed older duplicate timestamp
+train,CEL-0000331,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000331,REMOVED,Removed older duplicate timestamp
+train,CEL-0000362,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000362,REMOVED,Removed older duplicate timestamp
+train,CEL-0000408,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000408,REMOVED,Removed older duplicate timestamp
+train,CEL-0000418,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000418,REMOVED,Removed older duplicate timestamp
+train,CEL-0000460,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000460,REMOVED,Removed older duplicate timestamp
+train,CEL-0000595,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000595,REMOVED,Removed older duplicate timestamp
+train,CEL-0000634,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000634,REMOVED,Removed older duplicate timestamp
+train,CEL-0000759,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000759,REMOVED,Removed older duplicate timestamp
+train,CEL-0000785,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000785,REMOVED,Removed older duplicate timestamp
+train,CEL-0000818,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0000818,REMOVED,Removed older duplicate timestamp
+train,CEL-0001048,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001048,REMOVED,Removed older duplicate timestamp
+train,CEL-0001058,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001058,REMOVED,Removed older duplicate timestamp
+train,CEL-0001074,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001074,REMOVED,Removed older duplicate timestamp
+train,CEL-0001089,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001089,REMOVED,Removed older duplicate timestamp
+train,CEL-0001106,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001106,REMOVED,Removed older duplicate timestamp
+train,CEL-0001109,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001109,REMOVED,Removed older duplicate timestamp
+train,CEL-0001152,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001152,REMOVED,Removed older duplicate timestamp
+train,CEL-0001269,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001269,REMOVED,Removed older duplicate timestamp
+train,CEL-0001352,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001352,REMOVED,Removed older duplicate timestamp
+train,CEL-0001417,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001417,REMOVED,Removed older duplicate timestamp
+train,CEL-0001447,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001447,REMOVED,Removed older duplicate timestamp
+train,CEL-0001474,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001474,REMOVED,Removed older duplicate timestamp
+train,CEL-0001516,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001516,REMOVED,Removed older duplicate timestamp
+train,CEL-0001681,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001681,REMOVED,Removed older duplicate timestamp
+train,CEL-0001826,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001826,REMOVED,Removed older duplicate timestamp
+train,CEL-0001966,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0001966,REMOVED,Removed older duplicate timestamp
+train,CEL-0002175,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002175,REMOVED,Removed older duplicate timestamp
+train,CEL-0002189,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002189,REMOVED,Removed older duplicate timestamp
+train,CEL-0002363,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002363,REMOVED,Removed older duplicate timestamp
+train,CEL-0002403,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002403,REMOVED,Removed older duplicate timestamp
+train,CEL-0002478,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002478,REMOVED,Removed older duplicate timestamp
+train,CEL-0002523,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002523,REMOVED,Removed older duplicate timestamp
+train,CEL-0002567,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002567,REMOVED,Removed older duplicate timestamp
+train,CEL-0002595,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002595,REMOVED,Removed older duplicate timestamp
+train,CEL-0002612,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002612,REMOVED,Removed older duplicate timestamp
+train,CEL-0002666,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002666,REMOVED,Removed older duplicate timestamp
+train,CEL-0002722,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0002722,REMOVED,Removed older duplicate timestamp
+train,CEL-0003356,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003356,REMOVED,Removed older duplicate timestamp
+train,CEL-0003480,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003480,REMOVED,Removed older duplicate timestamp
+train,CEL-0003549,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003549,REMOVED,Removed older duplicate timestamp
+train,CEL-0003591,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003591,REMOVED,Removed older duplicate timestamp
+train,CEL-0003654,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003654,REMOVED,Removed older duplicate timestamp
+train,CEL-0003679,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003679,REMOVED,Removed older duplicate timestamp
+train,CEL-0003686,RULE_2_DEDUP_TIMESTAMP,Record_ID,CEL-0003686,REMOVED,Removed older duplicate timestamp
+train,CEL-0000024,NORM_DATE_FORMAT,Date,12/2020,2020-12,Standardized to YYYY-MM
+train,CEL-0000038,NORM_DATE_FORMAT,Date,Feb-2022,2022-02,Standardized to YYYY-MM
+train,CEL-0000045,NORM_DATE_FORMAT,Date,09/2022,2022-09,Standardized to YYYY-MM
+train,CEL-0000058,NORM_DATE_FORMAT,Date,Oct 2023,2023-10,Standardized to YYYY-MM
+train,CEL-0000101,NORM_DATE_FORMAT,Date,Jul-2019,2019-07,Standardized to YYYY-MM
+train,CEL-0000118,NORM_DATE_FORMAT,Date,12-2020,2020-12,Standardized to YYYY-MM
+train,CEL-0000125,NORM_DATE_FORMAT,Date,Jul 2021,2021-07,Standardized to YYYY-MM
+train,CEL-0000136,NORM_DATE_FORMAT,Date,Jun 2022,2022-06,Standardized to YYYY-MM
+train,CEL-0000145,NORM_DATE_FORMAT,Date,2023/03,2023-03,Standardized to YYYY-MM
+train,CEL-0000217,NORM_DATE_FORMAT,Date,May-2021,2021-05,Standardized to YYYY-MM
+train,CEL-0000244,NORM_DATE_FORMAT,Date,08/2023,2023-08,Standardized to YYYY-MM
+train,CEL-0000269,NORM_DATE_FORMAT,Date,2025-09-01,2025-09,Standardized to YYYY-MM
+train,CEL-0000283,NORM_DATE_FORMAT,Date,01/2019,2019-01,Standardized to YYYY-MM
+train,CEL-0000284,NORM_DATE_FORMAT,Date,Feb-2019,2019-02,Standardized to YYYY-MM
+train,CEL-0000287,NORM_DATE_FORMAT,Date,05-2019,2019-05,Standardized to YYYY-MM
+train,CEL-0000316,NORM_DATE_FORMAT,Date,2021-10-01,2021-10,Standardized to YYYY-MM
+train,CEL-0000369,NORM_DATE_FORMAT,Date,03/2026,2026-03,Standardized to YYYY-MM
+train,CEL-0000389,NORM_DATE_FORMAT,Date,Jan-2020,2020-01,Standardized to YYYY-MM
+train,CEL-0000401,NORM_DATE_FORMAT,Date,2021-01-01,2021-01,Standardized to YYYY-MM
+train,CEL-0000402,NORM_DATE_FORMAT,Date,2021/02,2021-02,Standardized to YYYY-MM
+train,CEL-0000410,NORM_DATE_FORMAT,Date,Oct-2021,2021-10,Standardized to YYYY-MM
+train,CEL-0000424,NORM_DATE_FORMAT,Date,2022/12,2022-12,Standardized to YYYY-MM
+train,CEL-0000433,NORM_DATE_FORMAT,Date,09/2023,2023-09,Standardized to YYYY-MM
+train,CEL-0000461,NORM_DATE_FORMAT,Date,Jan-2026,2026-01,Standardized to YYYY-MM
+train,CEL-0000469,NORM_DATE_FORMAT,Date,Sep-2026,2026-09,Standardized to YYYY-MM
+train,CEL-0000486,NORM_DATE_FORMAT,Date,Apr 2023,2023-04,Standardized to YYYY-MM
+train,CEL-0000512,NORM_DATE_FORMAT,Date,2025-06-01,2025-06,Standardized to YYYY-MM
+train,CEL-0000522,NORM_DATE_FORMAT,Date,Apr 2026,2026-04,Standardized to YYYY-MM
+train,CEL-0000530,NORM_DATE_FORMAT,Date,2019-02-01,2019-02,Standardized to YYYY-MM
+train,CEL-0000536,NORM_DATE_FORMAT,Date,08/2019,2019-08,Standardized to YYYY-MM
+train,CEL-0000561,NORM_DATE_FORMAT,Date,09-2021,2021-09,Standardized to YYYY-MM
+train,CEL-0000606,NORM_DATE_FORMAT,Date,Jun-2025,2025-06,Standardized to YYYY-MM
+train,CEL-0000679,NORM_DATE_FORMAT,Date,Sep 2023,2023-09,Standardized to YYYY-MM
+train,CEL-0000685,NORM_DATE_FORMAT,Date,03-2024,2024-03,Standardized to YYYY-MM
+train,CEL-0000700,NORM_DATE_FORMAT,Date,Jun 2025,2025-06,Standardized to YYYY-MM
+train,CEL-0000720,NORM_DATE_FORMAT,Date,04/2019,2019-04,Standardized to YYYY-MM
+train,CEL-0000724,NORM_DATE_FORMAT,Date,08/2019,2019-08,Standardized to YYYY-MM
+train,CEL-0000773,NORM_DATE_FORMAT,Date,Sep 2023,2023-09,Standardized to YYYY-MM
+train,CEL-0000796,NORM_DATE_FORMAT,Date,2025-08-01,2025-08,Standardized to YYYY-MM
+train,CEL-0000834,NORM_DATE_FORMAT,Date,2020-12-01,2020-12,Standardized to YYYY-MM
+train,CEL-0000880,NORM_DATE_FORMAT,Date,Oct 2024,2024-10,Standardized to YYYY-MM
+train,CEL-0000893,NORM_DATE_FORMAT,Date,Nov 2025,2025-11,Standardized to YYYY-MM
+train,CEL-0000922,NORM_DATE_FORMAT,Date,Jun 2020,2020-06,Standardized to YYYY-MM
+train,CEL-0000939,NORM_DATE_FORMAT,Date,2021/11,2021-11,Standardized to YYYY-MM
+train,CEL-0001097,NORM_DATE_FORMAT,Date,May 2022,2022-05,Standardized to YYYY-MM
+train,CEL-0001171,NORM_DATE_FORMAT,Date,Sep-2020,2020-09,Standardized to YYYY-MM
+train,CEL-0001178,NORM_DATE_FORMAT,Date,Apr-2021,2021-04,Standardized to YYYY-MM
+train,CEL-0001189,NORM_DATE_FORMAT,Date,Mar-2022,2022-03,Standardized to YYYY-MM
+train,CEL-0001233,NORM_DATE_FORMAT,Date,2025-11-01,2025-11,Standardized to YYYY-MM
+train,CEL-0001256,NORM_DATE_FORMAT,Date,2019-12-01,2019-12,Standardized to YYYY-MM
+train,CEL-0001274,NORM_DATE_FORMAT,Date,Jun-2021,2021-06,Standardized to YYYY-MM
+train,CEL-0001344,NORM_DATE_FORMAT,Date,Jun-2019,2019-06,Standardized to YYYY-MM
+train,CEL-0001351,NORM_DATE_FORMAT,Date,Jan 2020,2020-01,Standardized to YYYY-MM
+train,CEL-0001371,NORM_DATE_FORMAT,Date,09/2021,2021-09,Standardized to YYYY-MM
+train,CEL-0001373,RULE_1_DATE_AUTHORITY,Year/Month,2021-12,2021-11,Date authoritative over Year/Month
+train,CEL-0001421,NORM_DATE_FORMAT,Date,Nov-2025,2025-11,Standardized to YYYY-MM
+train,CEL-0001444,NORM_DATE_FORMAT,Date,Dec-2019,2019-12,Standardized to YYYY-MM
+train,CEL-0001469,NORM_DATE_FORMAT,Date,01-2022,2022-01,Standardized to YYYY-MM
+train,CEL-0001479,NORM_DATE_FORMAT,Date,2022/11,2022-11,Standardized to YYYY-MM
+train,CEL-0001487,NORM_DATE_FORMAT,Date,07-2023,2023-07,Standardized to YYYY-MM
+train,CEL-0001499,NORM_DATE_FORMAT,Date,Jul 2024,2024-07,Standardized to YYYY-MM
+train,CEL-0001526,NORM_DATE_FORMAT,Date,10/2026,2026-10,Standardized to YYYY-MM
+train,CEL-0001588,NORM_DATE_FORMAT,Date,2019-04-01,2019-04,Standardized to YYYY-MM
+train,CEL-0001600,NORM_DATE_FORMAT,Date,2020/04,2020-04,Standardized to YYYY-MM
+train,CEL-0001619,NORM_DATE_FORMAT,Date,2021-11-01,2021-11,Standardized to YYYY-MM
+train,CEL-0001639,NORM_DATE_FORMAT,Date,2023-07-01,2023-07,Standardized to YYYY-MM
+train,CEL-0001662,NORM_DATE_FORMAT,Date,Jun 2025,2025-06,Standardized to YYYY-MM
+train,CEL-0001682,NORM_DATE_FORMAT,Date,04-2019,2019-04,Standardized to YYYY-MM
+train,CEL-0001690,NORM_DATE_FORMAT,Date,Dec 2019,2019-12,Standardized to YYYY-MM
+train,CEL-0001704,NORM_DATE_FORMAT,Date,Feb-2021,2021-02,Standardized to YYYY-MM
+train,CEL-0001710,NORM_DATE_FORMAT,Date,08-2021,2021-08,Standardized to YYYY-MM
+train,CEL-0001767,NORM_DATE_FORMAT,Date,2026-05-01,2026-05,Standardized to YYYY-MM
+train,CEL-0001788,NORM_DATE_FORMAT,Date,Apr 2020,2020-04,Standardized to YYYY-MM
+train,CEL-0001790,NORM_DATE_FORMAT,Date,06-2020,2020-06,Standardized to YYYY-MM
+train,CEL-0001796,NORM_DATE_FORMAT,Date,12-2020,2020-12,Standardized to YYYY-MM
+train,CEL-0001818,NORM_DATE_FORMAT,Date,2022/10,2022-10,Standardized to YYYY-MM
+train,CEL-0001848,NORM_DATE_FORMAT,Date,04/2025,2025-04,Standardized to YYYY-MM
+train,CEL-0001916,NORM_DATE_FORMAT,Date,2023/02,2023-02,Standardized to YYYY-MM
+train,CEL-0001961,NORM_DATE_FORMAT,Date,2019/01,2019-01,Standardized to YYYY-MM
+train,CEL-0001973,NORM_DATE_FORMAT,Date,2020/01,2020-01,Standardized to YYYY-MM
+train,CEL-0001984,NORM_DATE_FORMAT,Date,2020-12-01,2020-12,Standardized to YYYY-MM
+train,CEL-0002003,NORM_DATE_FORMAT,Date,Jul 2022,2022-07,Standardized to YYYY-MM
+train,CEL-0002032,NORM_DATE_FORMAT,Date,2024-12-01,2024-12,Standardized to YYYY-MM
+train,CEL-0002037,NORM_DATE_FORMAT,Date,2025-05-01,2025-05,Standardized to YYYY-MM
+train,CEL-0002075,NORM_DATE_FORMAT,Date,Sep-2023,2023-09,Standardized to YYYY-MM
+train,CEL-0002079,NORM_DATE_FORMAT,Date,2024-01-01,2024-01,Standardized to YYYY-MM
+train,CEL-0002089,NORM_DATE_FORMAT,Date,2024/11,2024-11,Standardized to YYYY-MM
+train,CEL-0002138,NORM_DATE_FORMAT,Date,2021-02-01,2021-02,Standardized to YYYY-MM
+train,CEL-0002161,NORM_DATE_FORMAT,Date,01-2023,2023-01,Standardized to YYYY-MM
+train,CEL-0002175,NORM_DATE_FORMAT,Date,Mar-2024,2024-03,Standardized to YYYY-MM
+train,CEL-0002198,NORM_DATE_FORMAT,Date,2026/02,2026-02,Standardized to YYYY-MM
+train,CEL-0002205,NORM_DATE_FORMAT,Date,2062-09,2026-09,Standardized to YYYY-MM
+train,CEL-0002217,NORM_DATE_FORMAT,Date,Nov 2019,2019-11,Standardized to YYYY-MM
+train,CEL-0002258,NORM_DATE_FORMAT,Date,Apr 2023,2023-04,Standardized to YYYY-MM
+train,CEL-0002273,NORM_DATE_FORMAT,Date,2024/07,2024-07,Standardized to YYYY-MM
+train,CEL-0002305,NORM_DATE_FORMAT,Date,05/2019,2019-05,Standardized to YYYY-MM
+train,CEL-0002327,NORM_DATE_FORMAT,Date,2021/03,2021-03,Standardized to YYYY-MM
+train,CEL-0002336,NORM_DATE_FORMAT,Date,Dec-2021,2021-12,Standardized to YYYY-MM
+train,CEL-0002357,NORM_DATE_FORMAT,Date,2023-09-01,2023-09,Standardized to YYYY-MM
+train,CEL-0002370,NORM_DATE_FORMAT,Date,10-2024,2024-10,Standardized to YYYY-MM
+train,CEL-0002378,NORM_DATE_FORMAT,Date,06-2025,2025-06,Standardized to YYYY-MM
+train,CEL-0002720,RULE_1_DATE_AUTHORITY,Year/Month,2025-9,2025-8,Date authoritative over Year/Month
+train,CEL-0002975,RULE_1_DATE_AUTHORITY,Year/Month,2023-6,2023-5,Date authoritative over Year/Month
+train,CEL-0003385,RULE_1_DATE_AUTHORITY,Year/Month,2021-6,2021-5,Date authoritative over Year/Month
+train,CEL-0003617,RULE_1_DATE_AUTHORITY,Year/Month,2025-2,2025-1,Date authoritative over Year/Month
+train,CEL-0004737,RULE_1_DATE_AUTHORITY,Year/Month,2025-8,2025-7,Date authoritative over Year/Month
+train,CEL-0004920,RULE_1_DATE_AUTHORITY,Year/Month,2025-3,2025-2,Date authoritative over Year/Month
+train,CEL-0005047,RULE_1_DATE_AUTHORITY,Year/Month,2020-2,2020-1,Date authoritative over Year/Month
+train,CEL-0007108,RULE_1_DATE_AUTHORITY,Year/Month,2025-5,2025-4,Date authoritative over Year/Month
+train,CEL-0012225,RULE_1_DATE_AUTHORITY,Year/Month,2023-11,2023-10,Date authoritative over Year/Month
+train,CEL-0013292,RULE_1_DATE_AUTHORITY,Year/Month,2023-11,2023-10,Date authoritative over Year/Month
+train,CEL-0014044,RULE_1_DATE_AUTHORITY,Year/Month,2026-11,2026-10,Date authoritative over Year/Month
+train,CEL-0014439,RULE_1_DATE_AUTHORITY,Year/Month,2023-8,2023-7,Date authoritative over Year/Month
+train,CEL-0014987,RULE_1_DATE_AUTHORITY,Year/Month,2022-4,2022-3,Date authoritative over Year/Month
+train,CEL-0016400,RULE_1_DATE_AUTHORITY,Year/Month,2024-7,2024-6,Date authoritative over Year/Month
+train,CEL-0017104,RULE_1_DATE_AUTHORITY,Year/Month,2026-7,2026-6,Date authoritative over Year/Month
+train,CEL-0017461,RULE_1_DATE_AUTHORITY,Year/Month,2020-2,2020-1,Date authoritative over Year/Month
+train,CEL-0017881,RULE_1_DATE_AUTHORITY,Year/Month,2024-2,2024-1,Date authoritative over Year/Month
+train,CEL-0018108,RULE_1_DATE_AUTHORITY,Year/Month,2019-7,2019-6,Date authoritative over Year/Month
+train,CEL-0018613,RULE_1_DATE_AUTHORITY,Year/Month,2022-6,2022-5,Date authoritative over Year/Month
+train,CEL-0018896,RULE_1_DATE_AUTHORITY,Year/Month,2025-7,2025-6,Date authoritative over Year/Month
+train,CEL-0019693,RULE_1_DATE_AUTHORITY,Year/Month,2024-6,2024-5,Date authoritative over Year/Month
+train,CEL-0020491,RULE_1_DATE_AUTHORITY,Year/Month,2021-8,2021-7,Date authoritative over Year/Month
+train,CEL-0020789,RULE_1_DATE_AUTHORITY,Year/Month,2022-12,2022-11,Date authoritative over Year/Month
+train,CEL-0021832,RULE_1_DATE_AUTHORITY,Year/Month,2021-11,2021-10,Date authoritative over Year/Month
+train,CEL-0022153,RULE_1_DATE_AUTHORITY,Year/Month,2022-8,2022-7,Date authoritative over Year/Month
+train,CEL-0023740,RULE_1_DATE_AUTHORITY,Year/Month,2019-11,2019-10,Date authoritative over Year/Month
+train,CEL-0025583,RULE_1_DATE_AUTHORITY,Year/Month,2026-6,2026-5,Date authoritative over Year/Month
+train,CEL-0026220,RULE_1_DATE_AUTHORITY,Year/Month,2022-10,2022-9,Date authoritative over Year/Month
+train,CEL-0026516,RULE_1_DATE_AUTHORITY,Year/Month,2023-12,2023-11,Date authoritative over Year/Month
+train,CEL-0026534,RULE_1_DATE_AUTHORITY,Year/Month,2025-6,2025-5,Date authoritative over Year/Month
+train,CEL-0026898,RULE_1_DATE_AUTHORITY,Year/Month,2019-8,2019-7,Date authoritative over Year/Month
+train,CEL-0029475,RULE_1_DATE_AUTHORITY,Year/Month,2020-6,2020-5,Date authoritative over Year/Month
+train,CEL-0032063,RULE_1_DATE_AUTHORITY,Year/Month,2023-12,2023-11,Date authoritative over Year/Month
+train,CEL-0032570,RULE_1_DATE_AUTHORITY,Year/Month,2019-3,2019-2,Date authoritative over Year/Month
+train,CEL-0033457,RULE_1_DATE_AUTHORITY,Year/Month,2023-10,2023-9,Date authoritative over Year/Month
+train,CEL-0034730,RULE_1_DATE_AUTHORITY,Year/Month,2026-3,2026-2,Date authoritative over Year/Month
+train,CEL-0034920,RULE_1_DATE_AUTHORITY,Year/Month,2026-5,2026-4,Date authoritative over Year/Month
+train,CEL-0035185,RULE_1_DATE_AUTHORITY,Year/Month,2024-12,2024-11,Date authoritative over Year/Month
+train,CEL-0035228,RULE_1_DATE_AUTHORITY,Year/Month,2020-9,2020-8,Date authoritative over Year/Month
+train,CEL-0035552,RULE_1_DATE_AUTHORITY,Year/Month,2019-5,2019-4,Date authoritative over Year/Month
+train,CEL-0038337,RULE_1_DATE_AUTHORITY,Year/Month,2023-8,2023-7,Date authoritative over Year/Month
+train,CEL-0039454,RULE_1_DATE_AUTHORITY,Year/Month,2022-9,2022-8,Date authoritative over Year/Month
+train,CEL-0044254,RULE_1_DATE_AUTHORITY,Year/Month,2023-1,2023-12,Date authoritative over Year/Month
+train,CEL-0044724,RULE_1_DATE_AUTHORITY,Year/Month,2023-1,2023-12,Date authoritative over Year/Month
+train,CEL-0044769,RULE_1_DATE_AUTHORITY,Year/Month,2019-12,2019-11,Date authoritative over Year/Month
+train,CEL-0044905,RULE_1_DATE_AUTHORITY,Year/Month,2026-4,2026-3,Date authoritative over Year/Month
+train,CEL-0045443,RULE_1_DATE_AUTHORITY,Year/Month,2019-2,2019-1,Date authoritative over Year/Month
+train,CEL-0047315,RULE_1_DATE_AUTHORITY,Year/Month,2024-10,2024-9,Date authoritative over Year/Month
+train,CEL-0048145,RULE_1_DATE_AUTHORITY,Year/Month,2020-6,2020-5,Date authoritative over Year/Month
+train,CEL-0049949,RULE_1_DATE_AUTHORITY,Year/Month,2026-6,2026-5,Date authoritative over Year/Month
+train,CEL-0050480,RULE_1_DATE_AUTHORITY,Year/Month,2026-9,2026-8,Date authoritative over Year/Month
+train,CEL-0051177,RULE_1_DATE_AUTHORITY,Year/Month,2023-3,2023-2,Date authoritative over Year/Month
+train,CEL-0053658,RULE_1_DATE_AUTHORITY,Year/Month,2021-8,2021-7,Date authoritative over Year/Month
+train,CEL-0054929,RULE_1_DATE_AUTHORITY,Year/Month,2023-11,2023-10,Date authoritative over Year/Month
+train,CEL-0055516,RULE_1_DATE_AUTHORITY,Year/Month,2020-12,2020-11,Date authoritative over Year/Month
+train,CEL-0055801,RULE_1_DATE_AUTHORITY,Year/Month,2024-3,2024-2,Date authoritative over Year/Month
+train,CEL-0056245,RULE_1_DATE_AUTHORITY,Year/Month,2021-1,2021-12,Date authoritative over Year/Month
+train,CEL-0057323,RULE_1_DATE_AUTHORITY,Year/Month,2026-9,2026-8,Date authoritative over Year/Month
+train,CEL-0057950,RULE_1_DATE_AUTHORITY,Year/Month,2019-8,2019-7,Date authoritative over Year/Month
+train,CEL-0058044,RULE_1_DATE_AUTHORITY,Year/Month,2019-8,2019-7,Date authoritative over Year/Month
+train,CEL-0058471,RULE_1_DATE_AUTHORITY,Year/Month,2023-11,2023-10,Date authoritative over Year/Month
+train,CEL-0058960,RULE_1_DATE_AUTHORITY,Year/Month,2025-2,2025-1,Date authoritative over Year/Month
+train,CEL-0062605,RULE_1_DATE_AUTHORITY,Year/Month,2025-8,2025-7,Date authoritative over Year/Month
+train,CEL-0063056,RULE_1_DATE_AUTHORITY,Year/Month,2025-3,2025-2,Date authoritative over Year/Month
+train,CEL-0063720,RULE_1_DATE_AUTHORITY,Year/Month,2021-3,2021-2,Date authoritative over Year/Month
+train,CEL-0063789,RULE_1_DATE_AUTHORITY,Year/Month,2022-2,2022-1,Date authoritative over Year/Month
+train,CEL-0063791,RULE_1_DATE_AUTHORITY,Year/Month,2022-4,2022-3,Date authoritative over Year/Month
+train,CEL-0064689,RULE_1_DATE_AUTHORITY,Year/Month,2025-9,2025-8,Date authoritative over Year/Month
+train,CEL-0064747,RULE_1_DATE_AUTHORITY,Year/Month,2022-9,2022-8,Date authoritative over Year/Month
+train,CEL-0065029,RULE_1_DATE_AUTHORITY,Year/Month,2025-9,2025-8,Date authoritative over Year/Month
+train,CEL-0065299,RULE_1_DATE_AUTHORITY,Year/Month,2019-11,2019-10,Date authoritative over Year/Month
+train,CEL-0067006,RULE_1_DATE_AUTHORITY,Year/Month,2021-6,2021-5,Date authoritative over Year/Month
+train,CEL-0069897,RULE_1_DATE_AUTHORITY,Year/Month,2026-9,2026-8,Date authoritative over Year/Month
+train,CEL-0074092,RULE_1_DATE_AUTHORITY,Year/Month,2019-1,2019-12,Date authoritative over Year/Month
+train,CEL-0074772,RULE_1_DATE_AUTHORITY,Year/Month,2024-11,2024-10,Date authoritative over Year/Month
+train,CEL-0077266,RULE_1_DATE_AUTHORITY,Year/Month,2024-1,2024-12,Date authoritative over Year/Month
+train,CEL-0079452,RULE_1_DATE_AUTHORITY,Year/Month,2023-5,2023-4,Date authoritative over Year/Month
+train,CEL-0080043,RULE_1_DATE_AUTHORITY,Year/Month,2020-10,2020-9,Date authoritative over Year/Month
+train,CEL-0081438,RULE_1_DATE_AUTHORITY,Year/Month,2024-4,2024-3,Date authoritative over Year/Month
+train,CEL-0082045,RULE_1_DATE_AUTHORITY,Year/Month,2022-4,2022-3,Date authoritative over Year/Month
+train,CEL-0083464,RULE_1_DATE_AUTHORITY,Year/Month,2021-3,2021-2,Date authoritative over Year/Month
+train,CEL-0084039,RULE_1_DATE_AUTHORITY,Year/Month,2025-2,2025-1,Date authoritative over Year/Month
+train,CEL-0084269,RULE_1_DATE_AUTHORITY,Year/Month,2023-10,2023-9,Date authoritative over Year/Month
+train,CEL-0086079,RULE_1_DATE_AUTHORITY,Year/Month,2022-2,2022-1,Date authoritative over Year/Month
+train,CEL-0086276,RULE_1_DATE_AUTHORITY,Year/Month,2022-11,2022-10,Date authoritative over Year/Month
+train,CEL-0086859,RULE_1_DATE_AUTHORITY,Year/Month,2024-6,2024-5,Date authoritative over Year/Month
+train,CEL-0086944,RULE_1_DATE_AUTHORITY,Year/Month,2023-9,2023-8,Date authoritative over Year/Month
+train,CEL-0087169,RULE_1_DATE_AUTHORITY,Year/Month,2025-10,2025-9,Date authoritative over Year/Month
+train,CEL-0087262,RULE_1_DATE_AUTHORITY,Year/Month,2025-7,2025-6,Date authoritative over Year/Month
+train,CEL-0087271,RULE_1_DATE_AUTHORITY,Year/Month,2026-4,2026-3,Date authoritative over Year/Month
+train,CEL-0087724,RULE_1_DATE_AUTHORITY,Year/Month,2023-11,2023-10,Date authoritative over Year/Month
+train,CEL-0087931,RULE_1_DATE_AUTHORITY,Year/Month,2025-6,2025-5,Date authoritative over Year/Month
+train,CEL-0088839,RULE_1_DATE_AUTHORITY,Year/Month,2020-12,2020-11,Date authoritative over Year/Month
+train,CEL-0089043,RULE_1_DATE_AUTHORITY,Year/Month,2025-4,2025-3,Date authoritative over Year/Month
+train,CEL-0091329,RULE_1_DATE_AUTHORITY,Year/Month,2020-8,2020-7,Date authoritative over Year/Month
+train,CEL-0091987,RULE_1_DATE_AUTHORITY,Year/Month,2026-8,2026-7,Date authoritative over Year/Month
+train,CEL-0092015,RULE_1_DATE_AUTHORITY,Year/Month,2021-2,2021-1,Date authoritative over Year/Month
+train,CEL-0092303,RULE_1_DATE_AUTHORITY,Year/Month,2021-8,2021-7,Date authoritative over Year/Month
+train,CEL-0093328,RULE_1_DATE_AUTHORITY,Year/Month,2025-12,2025-11,Date authoritative over Year/Month
+train,CEL-0000005,NORM_SKU_SYNTAX,SKU_ID,BSS_001,BSS-001,Standardized SKU format/prefix
+train,CEL-0000340,NORM_SKU_SYNTAX,SKU_ID,BSS_001,BSS-001,Standardized SKU format/prefix
+train,CEL-0000378,NORM_SKU_SYNTAX,SKU_ID,bss-001,BSS-001,Standardized SKU format/prefix
+train,CEL-0000406,NORM_SKU_SYNTAX,SKU_ID, BSS-001,BSS-001,Standardized SKU format/prefix
+train,CEL-0000412,NORM_SKU_SYNTAX,SKU_ID,BSS001,BSS-001,Standardized SKU format/prefix
+train,CEL-0000454,NORM_SKU_SYNTAX,SKU_ID,BSS001,BSS-001,Standardized SKU format/prefix
+train,CEL-0000640,NORM_SKU_SYNTAX,SKU_ID, BSS-002,BSS-002,Standardized SKU format/prefix
+train,CEL-0000642,NORM_SKU_SYNTAX,SKU_ID, BSS-002,BSS-002,Standardized SKU format/prefix
+train,CEL-0000650,NORM_SKU_SYNTAX,SKU_ID,BSS-2,BSS-002,Standardized SKU format/prefix
+train,CEL-0000684,NORM_SKU_SYNTAX,SKU_ID,BSS-2,BSS-002,Standardized SKU format/prefix
+train,CEL-0000755,NORM_SKU_SYNTAX,SKU_ID, BSS-002,BSS-002,Standardized SKU format/prefix
+train,CEL-0000768,NORM_SKU_SYNTAX,SKU_ID,BSS_002,BSS-002,Standardized SKU format/prefix
+train,CEL-0000841,NORM_SKU_SYNTAX,SKU_ID, BSS-002,BSS-002,Standardized SKU format/prefix
+train,CEL-0000856,NORM_SKU_SYNTAX,SKU_ID, BSS-002,BSS-002,Standardized SKU format/prefix
+train,CEL-0000898,NORM_SKU_SYNTAX,SKU_ID, BSS-002,BSS-002,Standardized SKU format/prefix
+train,CEL-0001279,NORM_SKU_SYNTAX,SKU_ID,bss-003,BSS-003,Standardized SKU format/prefix
+train,CEL-0001289,NORM_SKU_SYNTAX,SKU_ID, BSS-003,BSS-003,Standardized SKU format/prefix
+train,CEL-0001396,NORM_SKU_SYNTAX,SKU_ID,BSS-3,BSS-003,Standardized SKU format/prefix
+train,CEL-0001429,NORM_SKU_SYNTAX,SKU_ID,BSS-3,BSS-003,Standardized SKU format/prefix
+train,CEL-0001473,NORM_SKU_SYNTAX,SKU_ID,BSS003,BSS-003,Standardized SKU format/prefix
+train,CEL-0001510,NORM_SKU_SYNTAX,SKU_ID,bss-003,BSS-003,Standardized SKU format/prefix
+train,CEL-0001519,NORM_SKU_SYNTAX,SKU_ID, BSS-003,BSS-003,Standardized SKU format/prefix
+train,CEL-0001608,NORM_SKU_SYNTAX,SKU_ID,bss-004,BSS-004,Standardized SKU format/prefix
+train,CEL-0001765,NORM_SKU_SYNTAX,SKU_ID, BSS-004,BSS-004,Standardized SKU format/prefix
+train,CEL-0001812,NORM_SKU_SYNTAX,SKU_ID,BSS_004,BSS-004,Standardized SKU format/prefix
+train,CEL-0001829,NORM_SKU_SYNTAX,SKU_ID,BSS004,BSS-004,Standardized SKU format/prefix
+train,CEL-0001876,NORM_SKU_SYNTAX,SKU_ID,BSS-4,BSS-004,Standardized SKU format/prefix
+train,CEL-0001903,NORM_SKU_SYNTAX,SKU_ID,BSS-4,BSS-004,Standardized SKU format/prefix
+train,CEL-0001905,NORM_SKU_SYNTAX,SKU_ID, BSS-004,BSS-004,Standardized SKU format/prefix
+train,CEL-0001998,NORM_SKU_SYNTAX,SKU_ID,BSS_004,BSS-004,Standardized SKU format/prefix
+train,CEL-0002050,NORM_SKU_SYNTAX,SKU_ID,BSS-4,BSS-004,Standardized SKU format/prefix
+train,CEL-0002092,NORM_SKU_SYNTAX,SKU_ID, BSS-004,BSS-004,Standardized SKU format/prefix
+train,CEL-0002218,NORM_SKU_SYNTAX,SKU_ID,bss-005,BSS-005,Standardized SKU format/prefix
+train,CEL-0002459,NORM_SKU_SYNTAX,SKU_ID, BSS-005,BSS-005,Standardized SKU format/prefix
+train,CEL-0002525,NORM_SKU_SYNTAX,SKU_ID,BSS005,BSS-005,Standardized SKU format/prefix
+train,CEL-0002540,NORM_SKU_SYNTAX,SKU_ID,BSS005,BSS-005,Standardized SKU format/prefix
+train,CEL-0002576,NORM_SKU_SYNTAX,SKU_ID,BSS-5,BSS-005,Standardized SKU format/prefix
+train,CEL-0002642,NORM_SKU_SYNTAX,SKU_ID,BSS-6,BSS-006,Standardized SKU format/prefix
+train,CEL-0002645,NORM_SKU_SYNTAX,SKU_ID,bss-006,BSS-006,Standardized SKU format/prefix
+train,CEL-0002651,NORM_SKU_SYNTAX,SKU_ID,BSS_006,BSS-006,Standardized SKU format/prefix
+train,CEL-0002774,NORM_SKU_SYNTAX,SKU_ID,BSS-6,BSS-006,Standardized SKU format/prefix
+train,CEL-0002869,NORM_SKU_SYNTAX,SKU_ID,bss-006,BSS-006,Standardized SKU format/prefix
+train,CEL-0002888,NORM_SKU_SYNTAX,SKU_ID,bss-006,BSS-006,Standardized SKU format/prefix
+train,CEL-0002960,NORM_SKU_SYNTAX,SKU_ID, BSS-006,BSS-006,Standardized SKU format/prefix
+train,CEL-0003035,NORM_SKU_SYNTAX,SKU_ID,bss-006,BSS-006,Standardized SKU format/prefix
+train,CEL-0003078,NORM_SKU_SYNTAX,SKU_ID,BSS006,BSS-006,Standardized SKU format/prefix
+train,CEL-0003203,NORM_SKU_SYNTAX,SKU_ID,BSS-7,BSS-007,Standardized SKU format/prefix
+train,CEL-0003333,NORM_SKU_SYNTAX,SKU_ID,BSS-7,BSS-007,Standardized SKU format/prefix
+train,CEL-0003527,NORM_SKU_SYNTAX,SKU_ID,BSS-7,BSS-007,Standardized SKU format/prefix
+train,CEL-0003617,NORM_SKU_SYNTAX,SKU_ID, BSS-007,BSS-007,Standardized SKU format/prefix
+train,CEL-0003618,NORM_SKU_SYNTAX,SKU_ID,BSS007,BSS-007,Standardized SKU format/prefix
+train,CEL-0003690,NORM_SKU_SYNTAX,SKU_ID,BSS-7,BSS-007,Standardized SKU format/prefix
+train,CEL-0003738,NORM_SKU_SYNTAX,SKU_ID,BSS_008,BSS-008,Standardized SKU format/prefix
+train,CEL-0003755,NORM_SKU_SYNTAX,SKU_ID,BSS_008,BSS-008,Standardized SKU format/prefix
+train,CEL-0003785,NORM_SKU_SYNTAX,SKU_ID,BSS-8,BSS-008,Standardized SKU format/prefix
+train,CEL-0003803,NORM_SKU_SYNTAX,SKU_ID,bss-008,BSS-008,Standardized SKU format/prefix
+train,CEL-0003814,NORM_SKU_SYNTAX,SKU_ID,BSS_008,BSS-008,Standardized SKU format/prefix
+train,CEL-0003889,NORM_SKU_SYNTAX,SKU_ID, BSS-008,BSS-008,Standardized SKU format/prefix
+train,CEL-0003932,NORM_SKU_SYNTAX,SKU_ID, BSS-008,BSS-008,Standardized SKU format/prefix
+train,CEL-0004128,NORM_SKU_SYNTAX,SKU_ID, BSS-008,BSS-008,Standardized SKU format/prefix
+train,CEL-0004172,NORM_SKU_SYNTAX,SKU_ID,BSS_008,BSS-008,Standardized SKU format/prefix
+train,CEL-0004250,NORM_SKU_SYNTAX,SKU_ID, BSS-009,BSS-009,Standardized SKU format/prefix
+train,CEL-0004255,NORM_SKU_SYNTAX,SKU_ID,bss-009,BSS-009,Standardized SKU format/prefix
+train,CEL-0004294,NORM_SKU_SYNTAX,SKU_ID,BSS_009,BSS-009,Standardized SKU format/prefix
+train,CEL-0004349,NORM_SKU_SYNTAX,SKU_ID,bss-009,BSS-009,Standardized SKU format/prefix
+train,CEL-0004360,NORM_SKU_SYNTAX,SKU_ID,BSS-9,BSS-009,Standardized SKU format/prefix
+train,CEL-0004417,NORM_SKU_SYNTAX,SKU_ID, BSS-009,BSS-009,Standardized SKU format/prefix
+train,CEL-0004477,NORM_SKU_SYNTAX,SKU_ID,BSS009,BSS-009,Standardized SKU format/prefix
+train,CEL-0004761,NORM_SKU_SYNTAX,SKU_ID,bss-010,BSS-010,Standardized SKU format/prefix
+train,CEL-0004909,NORM_SKU_SYNTAX,SKU_ID,BSS-10,BSS-010,Standardized SKU format/prefix
+train,CEL-0004937,NORM_SKU_SYNTAX,SKU_ID,BSS010,BSS-010,Standardized SKU format/prefix
+train,CEL-0004975,NORM_SKU_SYNTAX,SKU_ID,bss-010,BSS-010,Standardized SKU format/prefix
+train,CEL-0004995,NORM_SKU_SYNTAX,SKU_ID,BSS-10,BSS-010,Standardized SKU format/prefix
+train,CEL-0005007,NORM_SKU_SYNTAX,SKU_ID,bss-010,BSS-010,Standardized SKU format/prefix
+train,CEL-0005016,NORM_SKU_SYNTAX,SKU_ID,BSS-10,BSS-010,Standardized SKU format/prefix
+train,CEL-0005060,NORM_SKU_SYNTAX,SKU_ID,BSS-10,BSS-010,Standardized SKU format/prefix
+train,CEL-0005174,NORM_SKU_SYNTAX,SKU_ID,bss-010,BSS-010,Standardized SKU format/prefix
+train,CEL-0005284,NORM_SKU_SYNTAX,SKU_ID,BSS_011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005344,NORM_SKU_SYNTAX,SKU_ID,bss-011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005466,NORM_SKU_SYNTAX,SKU_ID,bss-011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005470,NORM_SKU_SYNTAX,SKU_ID,BSS-11,BSS-011,Standardized SKU format/prefix
+train,CEL-0005493,NORM_SKU_SYNTAX,SKU_ID,BSS_011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005496,NORM_SKU_SYNTAX,SKU_ID,bss-011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005624,NORM_SKU_SYNTAX,SKU_ID, BSS-011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005647,NORM_SKU_SYNTAX,SKU_ID,BSS-11,BSS-011,Standardized SKU format/prefix
+train,CEL-0005654,NORM_SKU_SYNTAX,SKU_ID,BSS_011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005756,NORM_SKU_SYNTAX,SKU_ID, BSS-011,BSS-011,Standardized SKU format/prefix
+train,CEL-0005781,NORM_SKU_SYNTAX,SKU_ID,BSS-11,BSS-011,Standardized SKU format/prefix
+train,CEL-0005913,NORM_SKU_SYNTAX,SKU_ID,bss-013,BSS-013,Standardized SKU format/prefix
+train,CEL-0005990,NORM_SKU_SYNTAX,SKU_ID,BSS013,BSS-013,Standardized SKU format/prefix
+train,CEL-0006045,NORM_SKU_SYNTAX,SKU_ID,bss-013,BSS-013,Standardized SKU format/prefix
+train,CEL-0006078,NORM_SKU_SYNTAX,SKU_ID, BSS-013,BSS-013,Standardized SKU format/prefix
+train,CEL-0006104,NORM_SKU_SYNTAX,SKU_ID, BSS-013,BSS-013,Standardized SKU format/prefix
+train,CEL-0006125,NORM_SKU_SYNTAX,SKU_ID, BSS-013,BSS-013,Standardized SKU format/prefix
+train,CEL-0006252,NORM_SKU_SYNTAX,SKU_ID,BSS013,BSS-013,Standardized SKU format/prefix
+train,CEL-0006354,NORM_SKU_SYNTAX,SKU_ID, BSS-014,BSS-014,Standardized SKU format/prefix
+train,CEL-0006412,NORM_SKU_SYNTAX,SKU_ID,bss-014,BSS-014,Standardized SKU format/prefix
+train,CEL-0006437,NORM_SKU_SYNTAX,SKU_ID,BSS014,BSS-014,Standardized SKU format/prefix
+train,CEL-0006447,NORM_SKU_SYNTAX,SKU_ID,bss-014,BSS-014,Standardized SKU format/prefix
+train,CEL-0006457,NORM_SKU_SYNTAX,SKU_ID,BSS_014,BSS-014,Standardized SKU format/prefix

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "MKS AI Hackathon Workstream 2 Anomaly & Demand Reconstruction Audit",
+    "status": "COMPLETED_SUCCESSFULLY"
+  },
+  "demand_reconstruction": {
+    "total_rows": 244367,
+    "total_shipped_units": 12037763,
+    "total_unconstrained_units": 12131045,
+    "unconstrained_demand_gap": 93282,
+    "total_lost_units_recovered": 81827,
+    "stockout_months_count": 5830
+  },
+  "anomaly_register_statistics": {
+    "total_anomalies_cataloged": 13231,
+    "by_classification_type": {
+      "MACRO_CHIP_SHORTAGE": 4314,
+      "MACRO_PANDEMIC_DISRUPTION": 2553,
+      "STRUCTURAL_BREAK_EV": 2242,
+      "SUPPLY_STOCKOUT": 1516,
+      "HOLIDAY_SEASONAL_SHUTDOWN": 1124,
+      "STATISTICAL_SPIKE": 769,
+      "PRICE_HIKE_PULL_FORWARD": 713
+    },
+    "by_business_category": {
+      "GENUINE_BUSINESS_EVENT": 6632,
+      "SUPPLY_CONSTRAINT": 5830,
+      "UNUSUAL_LEGITIMATE_DEMAND": 769
+    },
+    "by_severity": {
+      "HIGH": 7071,
+      "MEDIUM": 4261,
+      "LOW": 1899
+    }
+  }
+}

@@ -1,0 +1,57 @@
+# ==============================================================================
+# MKS AI/ML Hackathon - Python & Environment .gitignore
+# ==============================================================================
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Streamlit Local Configuration & Secrets
+.streamlit/secrets.toml
+
+# Environment Variables & Credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
+
+# Temporary Files, Logs, and Editor Caches
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+scratch/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE and Editor Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

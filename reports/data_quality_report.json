@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "MKS AI Hackathon Phase 1 Data Quality Audit",
+    "target": "Celeris Automobili Industrial Demand Forecasting",
+    "pipeline_status": "COMPLETED_SUCCESSFULLY"
+  },
+  "raw_datasets_summary": {
+    "train": {
+      "rows": 248248,
+      "columns": 15
+    },
+    "test": {
+      "rows": 58219,
+      "columns": 10
+    },
+    "macro_indicators": {
+      "rows": 114,
+      "columns": 11
+    },
+    "sku_master": {
+      "rows": 601,
+      "columns": 10
+    },
+    "events_calendar": {
+      "rows": 68,
+      "columns": 7
+    },
+    "inventory_stockouts": {
+      "rows": 5830,
+      "columns": 11
+    },
+    "sample_submission": {
+      "rows": 5,
+      "columns": 4
+    }
+  },
+  "data_cleaning_audit": {
+    "initial_raw_train_rows": 248248,
+    "deduplication": {
+      "rule": "Rule 2: Latest Load_Timestamp wins",
+      "duplicate_record_ids_removed": 3682,
+      "unique_records_retained": 244566
+    },
+    "date_standardization": {
+      "rule": "Rule 1: Date is authoritative over Year/Month",
+      "dates_standardized_to_yyyy_mm": 9851,
+      "year_month_contradictions_corrected": 246,
+      "date_range": "2019-01 to 2026-10"
+    },
+    "sku_normalization": {
+      "rule": "Canonical [FamilyCode]-[NNN] format (matching sku_master)",
+      "skus_normalized": 3683,
+      "unique_raw_skus": 2659,
+      "unique_cleaned_skus": 598,
+      "unmatched_skus": 0
+    },
+    "geography_and_channel_normalization": {
+      "canonical_regions": 6,
+      "regions_normalized": 29,
+      "missing_regions_imputed": 942,
+      "remaining_missing_regions": 0,
+      "canonical_channels": 4,
+      "sales_channels_normalized": 3683
+    },
+    "revenue_price_reconciliation": {
+      "rule": "Units_Sold * Unit_Price_USD = Revenue_USD",
+      "prices_rescaled_100x": 1506,
+      "missing_units_recovered_from_revenue": 3208,
+      "revenues_reconciled": 2625,
+      "negative_units_flagged_returns": 491,
+      "explicit_zero_orders": 36389
+    },
+    "macro_indicators_cleaning": {
+      "rows": 114,
+      "date_range": "2019-01 to 2028-05 (114 months)",
+      "missing_values_interpolated": 5
+    },
+    "aggregation_granularity": {
+      "cleaned_transactions_rows": 244566,
+      "aggregated_date_sku_region_rows": 244340,
+      "regularized_panel_grid_rows": 301728,
+      "missing_rows_resolved_to_zero_demand": 57404
+    }
+  },
+  "audit_rule_summary_counts": {
+    "RULE_2_DEDUP_TIMESTAMP": 3682,
+    "NORM_DATE_FORMAT": 9851,
+    "RULE_1_DATE_AUTHORITY": 246,
+    "NORM_SKU_SYNTAX": 3683,
+    "NORM_FAMILY_NAME": 1228,
+    "NORM_CUSTOMER_NAME": 2455,
+    "NORM_SALES_CHANNEL": 3683,
+    "IMPUTE_REGION_MEA_EXCLUSIVE": 90,
+    "IMPUTE_REGION_SKU_CUSTOMER_MODE": 852,
+    "RULE_4_PRICE_SCALING_100X": 1506,
+    "IMPUTE_PRICE_FROM_CATALOG": 36352,
+    "RECONCILE_UNITS_FROM_REVENUE": 3208,
+    "FILL_NULL_UNITS_ZERO": 380,
+    "RECONCILE_REVENUE_CALCULATION": 2625,
+    "IMPUTE_MACRO_Vehicle_Inventory_Days": 1,
+    "IMPUTE_MACRO_New_Vehicle_Orders_Index": 1,
+    "IMPUTE_MACRO_Industrial_Util_Rate_Pct": 1,
+    "IMPUTE_MACRO_Fuel_Price_Index": 1,
+    "IMPUTE_MACRO_EV_Adoption_Index": 1
+  }
+}

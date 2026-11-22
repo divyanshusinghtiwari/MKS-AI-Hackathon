@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "title": "MKS AI Hackathon 19-Month Rolling-Origin Backtest Audit",
+    "backtest_window": "2025-03 + 19 months (to 2026-10)",
+    "evaluation_records": 57562,
+    "train_records": 189544
+  },
+  "overall_portfolio_performance": {
+    "LightGBM_Global": {
+      "WAPE": 32.27,
+      "Bias": -7.0,
+      "MAE": 15.6,
+      "RMSE": 97.69
+    },
+    "Seasonal_Naive_Baseline": {
+      "WAPE": 43.04,
+      "Bias": 3.6,
+      "MAE": 20.8,
+      "RMSE": 116.56
+    },
+    "Croston_SBA_Baseline": {
+      "WAPE": 54.93,
+      "Bias": -9.54,
+      "MAE": 26.55,
+      "RMSE": 103.14
+    },
+    "Composite_Routing_Baseline": {
+      "WAPE": 59.03,
+      "Bias": -0.11,
+      "MAE": 28.53,
+      "RMSE": 115.45
+    }
+  },
+  "family_breakdown": [
+    {
+      "Product_Family": "Brake & Safety Systems",
+      "LightGBM_WAPE": 31.44,
+      "LightGBM_Bias": -11.94,
+      "Baseline_WAPE": 42.47,
+      "WAPE_Improvement": 11.03
+    },
+    {
+      "Product_Family": "Chassis & Structural",
+      "LightGBM_WAPE": 30.86,
+      "LightGBM_Bias": -7.02,
+      "Baseline_WAPE": 38.27,
+      "WAPE_Improvement": 7.41
+    },
+    {
+      "Product_Family": "Electrical Assemblies",
+      "LightGBM_WAPE": 34.58,
+      "LightGBM_Bias": -6.59,
+      "Baseline_WAPE": 51.45,
+      "WAPE_Improvement": 16.87
+    },
+    {
+      "Product_Family": "Hydraulic Systems",
+      "LightGBM_WAPE": 32.99,
+      "LightGBM_Bias": -3.92,
+      "Baseline_WAPE": 47.48,
+      "WAPE_Improvement": 14.49
+    },
+    {
+      "Product_Family": "Powertrain Components",
+      "LightGBM_WAPE": 32.74,
+      "LightGBM_Bias": -6.15,
+      "Baseline_WAPE": 43.15,
+      "WAPE_Improvement": 10.41
+    },
+    {
+      "Product_Family": "Precision Machined Parts",
+      "LightGBM_WAPE": 33.08,
+      "LightGBM_Bias": -4.67,
+      "Baseline_WAPE": 40.56,
+      "WAPE_Improvement": 7.48
+    },
+    {
+      "Product_Family": "Thermal Management",
+      "LightGBM_WAPE": 31.38,
+      "LightGBM_Bias": -6.57,
+      "Baseline_WAPE": 41.89,
+      "WAPE_Improvement": 10.51
+    }
+  ],
+  "region_breakdown": [
+    {
+      "Region": "Asia Pacific",
+      "LightGBM_WAPE": 31.22,
+      "LightGBM_Bias": -7.2,
+      "Baseline_WAPE": 42.06,
+      "WAPE_Improvement": 10.84
+    },
+    {
+      "Region": "Europe",
+      "LightGBM_WAPE": 29.95,
+      "LightGBM_Bias": -7.24,
+      "Baseline_WAPE": 38.4,
+      "WAPE_Improvement": 8.45
+    },
+    {
+      "Region": "India",
+      "LightGBM_WAPE": 33.4,
+      "LightGBM_Bias": -7.18,
+      "Baseline_WAPE": 42.43,
+      "WAPE_Improvement": 9.03
+    },
+    {
+      "Region": "Latin America",
+      "LightGBM_WAPE": 37.43,
+      "LightGBM_Bias": -10.43,
+      "Baseline_WAPE": 49.59,
+      "WAPE_Improvement": 12.16
+    },
+    {
+      "Region": "Middle East & Africa",
+      "LightGBM_WAPE": 35.06,
+      "LightGBM_Bias": -4.55,
+      "Baseline_WAPE": 57.58,
+      "WAPE_Improvement": 22.52
+    },
+    {
+      "Region": "North America",
+      "LightGBM_WAPE": 28.42,
+      "LightGBM_Bias": -4.34,
+      "Baseline_WAPE": 36.19,
+      "WAPE_Improvement": 7.77
+    }
+  ],
+  "intermittency_breakdown": [
+    {
+      "Intermittency_Class": "Smooth",
+      "LightGBM_WAPE": 26.87,
+      "LightGBM_Bias": -2.5,
+      "Baseline_WAPE": 37.57,
+      "WAPE_Improvement": 10.7
+    },
+    {
+      "Intermittency_Class": "Intermittent",
+      "LightGBM_WAPE": 36.18,
+      "LightGBM_Bias": -7.01,
+      "Baseline_WAPE": 35.47,
+      "WAPE_Improvement": -0.71
+    },
+    {
+      "Intermittency_Class": "Erratic",
+      "LightGBM_WAPE": 47.8,
+      "LightGBM_Bias": -26.34,
+      "Baseline_WAPE": 77.14,
+      "WAPE_Improvement": 29.34
+    },
+    {
+      "Intermittency_Class": "Lumpy",
+      "LightGBM_WAPE": 54.38,
+      "LightGBM_Bias": -23.93,
+      "Baseline_WAPE": 79.95,
+      "WAPE_Improvement": 25.57
+    }
+  ],
+  "horizon_breakdown": [
+    {
+      "Horizon_Month": 1,
+      "Date": "2025-04",
+      "LightGBM_WAPE": 33.47,
+      "LightGBM_Bias": -16.21,
+      "Baseline_WAPE": 41.71
+    },
+    {
+      "Horizon_Month": 2,
+      "Date": "2025-05",
+      "LightGBM_WAPE": 34.04,
+      "LightGBM_Bias": -16.68,
+      "Baseline_WAPE": 43.05
+    },
+    {
+      "Horizon_Month": 3,
+      "Date": "2025-06",
+      "LightGBM_WAPE": 29.84,
+      "LightGBM_Bias": -6.23,
+      "Baseline_WAPE": 39.22
+    },
+    {
+      "Horizon_Month": 4,
+      "Date": "2025-07",
+      "LightGBM_WAPE": 31.5,
+      "LightGBM_Bias": -4.45,
+      "Baseline_WAPE": 44.58
+    },
+    {
+      "Horizon_Month": 5,
+      "Date": "2025-08",
+      "LightGBM_WAPE": 31.43,
+      "LightGBM_Bias": -1.24,
+      "Baseline_WAPE": 45.05
+    },
+    {
+      "Horizon_Month": 6,
+      "Date": "2025-09",
+      "LightGBM_WAPE": 32.69,
+      "LightGBM_Bias": -9.68,
+      "Baseline_WAPE": 45.1
+    },
+    {
+      "Horizon_Month": 7,
+      "Date": "2025-10",
+      "LightGBM_WAPE": 34.46,
+      "LightGBM_Bias": -7.6,
+      "Baseline_WAPE": 47.34
+    },
+    {
+      "Horizon_Month": 8,
+      "Date": "2025-11",
+      "LightGBM_WAPE": 35.37,
+      "LightGBM_Bias": -8.34,
+      "Baseline_WAPE": 46.58
+    },
+    {
+      "Horizon_Month": 9,
+      "Date": "2025-12",
+      "LightGBM_WAPE": 33.3,
+      "LightGBM_Bias": 4.53,
+      "Baseline_WAPE": 47.39
+    },
+    {
+      "Horizon_Month": 10,
+      "Date": "2026-01",
+      "LightGBM_WAPE": 34.59,
+      "LightGBM_Bias": -2.89,
+      "Baseline_WAPE": 45.8
+    },
+    {
+      "Horizon_Month": 11,
+      "Date": "2026-02",
+      "LightGBM_WAPE": 33.78,
+      "LightGBM_Bias": 9.25,
+      "Baseline_WAPE": 45.51
+    },
+    {
+      "Horizon_Month": 12,
+      "Date": "2026-03",
+      "LightGBM_WAPE": 32.78,
+      "LightGBM_Bias": -3.2,
+      "Baseline_WAPE": 43.75
+    },
+    {
+      "Horizon_Month": 13,
+      "Date": "2026-04",
+      "LightGBM_WAPE": 31.87,
+      "LightGBM_Bias": -7.05,
+      "Baseline_WAPE": 43.02
+    },
+    {
+      "Horizon_Month": 14,
+      "Date": "2026-05",
+      "LightGBM_WAPE": 31.28,
+      "LightGBM_Bias": -9.95,
+      "Baseline_WAPE": 41.94
+    },
+    {
+      "Horizon_Month": 15,
+      "Date": "2026-06",
+      "LightGBM_WAPE": 29.72,
+      "LightGBM_Bias": -6.07,
+      "Baseline_WAPE": 37.76
+    },
+    {
+      "Horizon_Month": 16,
+      "Date": "2026-07",
+      "LightGBM_WAPE": 32.01,
+      "LightGBM_Bias": -5.74,
+      "Baseline_WAPE": 43.85
+    },
+    {
+      "Horizon_Month": 17,
+      "Date": "2026-08",
+      "LightGBM_WAPE": 31.16,
+      "LightGBM_Bias": -6.16,
+      "Baseline_WAPE": 42.06
+    },
+    {
+      "Horizon_Month": 18,
+      "Date": "2026-09",
+      "LightGBM_WAPE": 29.76,
+      "LightGBM_Bias": -11.7,
+      "Baseline_WAPE": 38.25
+    },
+    {
+      "Horizon_Month": 19,
+      "Date": "2026-10",
+      "LightGBM_WAPE": 30.41,
+      "LightGBM_Bias": -13.25,
+      "Baseline_WAPE": 38.26
+    }
+  ]
+}
